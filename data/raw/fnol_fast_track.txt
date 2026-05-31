@@ -1,0 +1,27 @@
+FNOL Document Template
+
+Policy Information:
+- Policy Number: PN12345
+- Policyholder Name: John Doe
+- Effective Dates: 2026-01-01 to 2026-12-31
+
+Incident Information:
+- Date: 2026-05-10
+- Time: 10:30 AM
+- Location: 123 Main St, Anytown, USA
+- Description: Minor fender bender in parking lot.
+
+Involved Parties:
+- Claimant: John Doe
+- Third Parties: None
+- Contact Details: john.doe@example.com, 555-123-4567
+
+Asset Details:
+- Asset Type: Car
+- Asset ID: ABC123DEF456
+- Estimated Damage: $15,000
+
+Other Mandatory Fields:
+- Claim Type: Automobile
+- Attachments: None
+- Initial Estimate: $15,000

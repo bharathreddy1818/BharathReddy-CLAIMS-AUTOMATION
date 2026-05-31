@@ -1,0 +1,27 @@
+FNOL Document: Comprehensive Claim
+
+Policy Information:
+- Policy Number: PN-COMP-999
+- Policyholder Name: Michael Richardson
+- Effective Dates: 2025-12-01 to 2026-12-01
+
+Incident Information:
+- Date: 2026-05-11
+- Time: 08:45 PM
+- Location: 777 Sunset Blvd, Los Angeles, CA
+- Description: Vehicle was parked on the street and was hit by an unknown driver. Significant damage to the rear bumper and left taillight.
+
+Involved Parties:
+- Claimant: Michael Richardson
+- Third Parties: Unknown (Hit and Run)
+- Contact Details: m.richardson@email.com, 555-000-1111
+
+Asset Details:
+- Asset Type: Luxury Sedan
+- Asset ID: VIN-998877665544
+- Estimated Damage: $12,500
+
+Other Mandatory Fields:
+- Claim Type: Automobile
+- Attachments: Photos of damage, Police report filed
+- Initial Estimate: $12,500
